@@ -1,0 +1,1 @@
+THIS FILE IS AN EXAMPLE FOR git fetch command.
